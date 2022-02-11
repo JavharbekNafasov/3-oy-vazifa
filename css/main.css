@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+#bgc-blue{
+    background-color:#004047 !important;
+}
+
+#col{
+    background-color: #012F34 !important;
+    padding-top: 35px !important;
+}
+
+#img{
+    border-radius: 50% !important;
+}
+
+#heading{
+    color: #79C8C7 !important;
+}
+
+#text{
+    font-weight: 600 !important;
+    /* max-width: 255px !important; */
+}
+
+#plus{
+    background-color: #F67E7E !important;
+    border-radius: 50% !important;
+}
+
+#plus:hover{
+    background-color: #79C8C7 !important;
+}
+
+#svg:hover path{
+    fill: #F67E7E !important;
+}
